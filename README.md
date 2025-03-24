@@ -1,6 +1,8 @@
 # 👋 Merhaba, Ben [Şenol Mert Duman]!
 
-![Swift](https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg) IOS için Swift ile projeler geliştiriyorum.
+![swift](https://github.com/user-attachments/assets/226523c9-7c66-4d18-8792-53cbcbc08eb4)![swiftui-96x96_2x](https://github.com/user-attachments/assets/386d35c7-9cf4-4ba1-894b-7c4b33267ded)
+
+IOS için Swift ile projeler geliştiriyorum.
 
 ---
 
